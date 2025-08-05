@@ -199,7 +199,7 @@ const IQTest = () => {
       type: "spatial",
       category: "Raisonnement Spatial",
       difficulty: 4,
-      question: "Développement d'un cube, face opposée à A",
+      question: "Développement d&apos;un cube, face opposée à A",
       description: "A au centre, B à droite",
       options: ["B", "C", "D", "E"],
       correct: 2
@@ -277,7 +277,7 @@ const IQTest = () => {
       type: "verbal",
       category: "Compréhension Verbale",
       difficulty: 1,
-      question: "Quel est l'intrus ?",
+      question: "Quel est l&apos;intrus ?",
       words: ["ROUGE", "BLEU", "VERT", "GRAND", "JAUNE"],
       options: ["ROUGE", "BLEU", "GRAND", "JAUNE"],
       correct: 2
@@ -489,8 +489,8 @@ const IQTest = () => {
               <h1 className="text-4xl lg:text-6xl font-black text-white mb-4 bg-gradient-to-r from-purple-400 to-pink-400 bg-clip-text text-transparent">
                 IQ MASTER PRO
               </h1>
-              <p className="text-xl lg:text-2xl text-purple-200 mb-2">Test de QI Professionnel & Scientifique</p>
-              <p className="text-base lg:text-lg text-purple-300">Évaluation psychométrique certifiée • Normes WAIS-IV & Raven</p>
+              <p className="text-xl lg:text-2xl text-purple-200 mb-2">Test de QI Professionnel &amp; Scientifique</p>
+              <p className="text-base lg:text-lg text-purple-300">Évaluation psychométrique certifiée • Normes WAIS-IV &amp; Raven</p>
             </div>
 
             {/* Statistiques impressionnantes */}
@@ -513,7 +513,7 @@ const IQTest = () => {
               <div className="bg-gradient-to-br from-orange-500/20 to-orange-600/20 rounded-xl p-6 text-center border border-orange-400/30">
                 <TrendingUp className="h-8 w-8 text-orange-400 mx-auto mb-2" />
                 <div className="text-2xl font-bold text-white">±3</div>
-                <div className="text-orange-200 text-sm">Points d'erreur</div>
+                <div className="text-orange-200 text-sm">Points d&apos;erreur</div>
               </div>
             </div>
 
@@ -869,7 +869,7 @@ const IQTest = () => {
                 </div>
               </div>
             </div>
-            <h1 className="text-4xl lg:text-5xl font-black text-white mb-4">RAPPORT D'ANALYSE</h1>
+            <h1 className="text-4xl lg:text-5xl font-black text-white mb-4">RAPPORT D&apos;ANALYSE</h1>
             <p className="text-xl text-purple-200">Évaluation Psychométrique Complète</p>
           </div>
 
